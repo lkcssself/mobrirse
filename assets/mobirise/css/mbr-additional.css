@@ -2322,30 +2322,6 @@ body {
 #instagram-feed-block-2n .inst__title {
   color: #54a4bf;
 }
-.cid-r40HN1kfKa {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: #cccccc;
-}
-.cid-r40HN1kfKa .image-block {
-  margin: auto;
-}
-.cid-r40HN1kfKa .mbr-figure {
-  margin: 0 auto;
-}
-.cid-r40HN1kfKa figcaption {
-  position: relative;
-}
-.cid-r40HN1kfKa figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-r40HN1kfKa .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #3a79b6;
